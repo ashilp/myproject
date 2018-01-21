@@ -8,8 +8,11 @@ This module provides a Google Books object which
     3. saves the library in csv format
     4. can sort the books by - price, avg rating, rating count, published date, page count
        in ascending or descending order
-    5. parses command line arguments to search, sort and save the library to file
-    6. loads the library data to console from CSV
+    5. parses command line arguments to 
+              -  search
+              -  sort in ascending or descending order 
+              -  save the library to file
+              -  loads the library data to console from CSV
 
 
 Example Usage
