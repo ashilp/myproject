@@ -12,6 +12,10 @@ This module provides a Google Books object which
     5. parses command line arguments to search, sort and save the library to file
     6. loads the library data to console from CSV
 
+Requirements
+~~~~~~~~~~~~~
+
+requests module:  pip install requests
 
 Example Usage
 ~~~~~~~~~~~~~
